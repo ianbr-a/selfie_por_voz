@@ -1,0 +1,25 @@
+#start-btn
+{
+    width: 40%;
+    
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(30, 33, 194);
+}
+#logo_img
+{
+    width: 250px;
+    border-radius: 50px;
+}
+#textbox
+{
+    width: 300px;
+}
+ body{
+    background: linear-gradient(#00FFFF, #40E0D0, #20B2AA, #008B8B, #008080)
+   
+ }
+
